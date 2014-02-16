@@ -1,0 +1,27 @@
+{
+  "name": "titan-cli",
+  "version": "0.0.0",
+  "description": "Command Line Interface for TitanJS Scaffolding",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zheref/titan-cli.git"
+  },
+  "keywords": [
+    "titanjs",
+    "phonegap",
+    "cli",
+    "scaffolding",
+    "mvc",
+    "steroids"
+  ],
+  "author": "Sergio Daniel Lozano (@zheref)",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/zheref/titan-cli/issues"
+  },
+  "homepage": "https://github.com/zheref/titan-cli"
+}
