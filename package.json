@@ -1,6 +1,6 @@
 {
   "name": "titan-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Command Line Interface for TitanJS Scaffolding",
   "main": "app.js",
   "bin": { "titan": "bin/titan" },
